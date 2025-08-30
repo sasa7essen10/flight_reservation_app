@@ -1,0 +1,2 @@
+# Tkinter and sqlite3 come with Python
+pyinstaller
